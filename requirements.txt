@@ -1,0 +1,6 @@
+bert-score
+faiss-gpu
+nltk
+pytorch
+numpy
+scipy
