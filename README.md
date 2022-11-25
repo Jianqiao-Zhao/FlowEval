@@ -22,3 +22,14 @@ We release two models in this work:
 You can use our code `run_controllable.py`, `run_fed.py`, and `run_dstc9.py` to calculate all the scores for each dialogues from Controllable Dialogue, FED, and DSTC9 respectively. It takes around half an hour to two hours depends on the hardware setup.
 
 We also provide the calculation results to save the hustle in the `results` folder. You can use the `results/calculate_correlation.py` to obtain the results in Table 2 and 3 of our paper. For more details, please check out the `results` folder.
+
+## Citation
+Please cite our paper if you use our code or data in your work:
+```
+@inproceedings{zhao2022floweval,
+   title={FlowEval: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows},
+   author={Jianqiao Zhao and Yanyang Li and Wanyu Du and Yangfeng Ji and Dong Yu and Michael R. Lyu and Liwei Wang},
+   booktitle={Empirical Methods in Natural Language Processing (EMNLP)},
+   year={2022}
+}
+```
