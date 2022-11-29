@@ -1,7 +1,7 @@
 # FlowEval
 Official repo of FlowEval: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows.
 
-<img src="images/Emblem_of_CU.png" alt="cuhk" width="150"/><img src="images/Shanghai_AI_Lab.jpg" alt="Shanghai AI Lab" width="200"/>
+<img src="images/Shanghai_AI_Lab.jpg" alt="Shanghai AI Lab" width="200"/><img src="images/Emblem_of_CU.png" alt="cuhk" width="150"/>
 
 This work is led by [LaVi Lab](https://lwwangcse.github.io/lab.html), CSE@CUHK and Shanghai AI Laboratory.
 
